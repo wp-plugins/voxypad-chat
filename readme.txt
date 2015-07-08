@@ -3,7 +3,7 @@ Contributors: VoxyPAD
 Tags: free live chat, chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat, live support, customer support, help desk, customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk
 Requires at least: 2.7
 Tested up to: 4.2
-Stable tag: 
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
