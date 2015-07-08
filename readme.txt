@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-VoxyPAD live chat/call service, built on collaborative telecommunication technology, is an ideal replacement for traditional 1-800 call with added features. It allows people to collaborate on the same content using whiteboard, web browser and documents during a chat/call. When a customer clicks the button on business owner's website, a call is routed to the representative's account on any devices. Both participants can co-view and co-annotate on the content like photos, images via VoxyPAD's "Whiteboard".
+VoxyPAD Click2Call service, built on collaborative telecommunication technology, is an platform for sharing data with annotation while on chat/call.
 
 == Description ==
 
