@@ -32,8 +32,9 @@ Manual Instructions:
 
 1. Download and **unzip the voxypad-click2Call-wordpress.zip** to your wordpress **`/wp-content/plugins/`** directory
 2. **Activate** the plugin through the **'Plugins' menu** in WordPress
-3. Choose the **Get Started** link from the plugins page or navigate to the **'Voxypad Click2Call'** menu item that appears on your WordPress Admin upon activating the plugin to complete registration
-4. **That's it!**  Once registered, your live chat widget is created instantly and is available on your site for customers to chat with you.
+3. In the Settings menu, select "VoxyPAD Click2Call". 
+4. Insert the generated code. To get the code, login into Voxypad.com web site. Upon logged in, in the Dashboard, cut and paste the "Chat box" or "Call box" code. If the code is not existing, select "New Order" to generate the code.
+5. **You are done!**. Now, you could insert the Voxypad Click2Call into your themes by selecting "Appearance --> Theme --> Widget". The chat/call menu will be displayed in the bottom right corner where users could click and communicate with you through Voxypad app. You could download the app into your mobile devices : iphone, ipad, android tablets or PC through voxypad web site.
 
 == Frequently Asked Questions ==
 
