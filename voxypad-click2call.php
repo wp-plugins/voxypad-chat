@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: VoxyPAD Click2Call
+Plugin Name: VoxyPAD Click2Call (Chat/Call)
 Plugin URI: https://voxypad.com/
 Description: VoxyPAD Click2Call service, built on collaborative technology, is an platform for sharing data, images with annotation while on chat/call. 
 Version: 1.0
