@@ -1,13 +1,13 @@
 === Plugin Name ===
 Contributors: VoxyPAD
-Tags: free live chat, chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat, live support, customer support, help desk, customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk
+Tags: Click2call, clicktocall, collaboration, formilla, help desk, free live chat,live support, chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat,customer support,customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk, call widget, whiteboard, notepad, data sharing, annotation, customer service, telesale, co-browse web
 Requires at least: 2.7
 Tested up to: 4.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-VoxyPAD Click2Call service, built on collaborative telecommunication technology, is an platform for sharing data with annotation while on chat/call.
+VoxyPAD Click2Call service, built on collaborative telecommunication technology, is an platform for sharing data, documents with annotation while on chat/call.
 
 == Description ==
 
@@ -34,7 +34,7 @@ Manual Instructions:
 2. **Activate** the plugin through the **'Plugins' menu** in WordPress
 3. In the Settings menu, select "VoxyPAD Click2Call". 
 4. Insert the generated code. To get the code, login into Voxypad.com web site. Upon logged in, in the Dashboard, cut and paste the "Chat box" or "Call box" code. If the code is not existing, select "New Order" to generate the code. Please, insert only one code (either chat or call box). The call box code will also include the chat service.  
-5. **You are done!**. Now, you could insert the Voxypad Click2Call into your themes by selecting "Appearance --> Theme --> Widget". The chat/call menu will be displayed in the bottom right corner where users could click and communicate with you through Voxypad app. You could download the app into your mobile devices : iphone, ipad, android tablets or PC through voxypad web site.
+5. **You are done!**. Now, you could insert the Voxypad Click2Call into your themes by selecting "Appearance --> Theme --> Widget". The chat/call menu will be displayed in the bottom right corner where users could click and communicate with you through Voxypad app. You could download the app into your mobile devices : iphone, ipad, android tablets or PC through voxypad.com web site.
 
 == Frequently Asked Questions ==
 
