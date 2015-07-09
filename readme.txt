@@ -7,7 +7,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-VoxyPAD Click2Call service, built on collaborative telecommunication technology, is an platform for sharing data, documents with annotation while on chat/call.
+VoxyPAD Click2Call service, built on collaborative technology, is an platform for sharing data, images with annotation while on chat/call.
 
 == Description ==
 
