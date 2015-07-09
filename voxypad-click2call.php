@@ -29,12 +29,12 @@ define ( WIDGET_CSS,'
 ');
 
 /*
-Plugin Name: VoxyPAD Click To Call
+Plugin Name: VoxyPAD Click2Call
 Plugin URI: https://voxypad.com/
-Description: Add Button Call, Chat with VoxyPAD services (send file, image, notepad draw,...) in your Wordpress site
+Description: VoxyPAD Click2Call service, built on collaborative technology, is an platform for sharing data, images with annotation while on chat/call. 
 Version: 1.0
-Author: TuanNguyen
-Author URI: https://www.tuannguyen.archar.vn/
+Author: VoxyPAD
+Author URI: https://www.voxypad.com/
 */
 
 /**
