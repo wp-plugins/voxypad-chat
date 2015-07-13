@@ -32,7 +32,7 @@ Manual Instructions:
 
 1. Extract voxypad-chat folder from a zip file
 2. Upload voxypad-chat folder to the /wp-content/plugins/ directory
-3. Activate the plugin through the 'Plugins' menu in WordPress
+3. Activate the plugin through the 'Plugins' menu in WordPress Admin of your site
 4. **You are done!**. The chat/call menu will be displayed in the bottom right corner where users could click and communicate with you through Voxypad app. You could download the app into your mobile devices : iphone, ipad, android tablets or PC through voxypad.com web site.
 
 == Frequently Asked Questions ==
