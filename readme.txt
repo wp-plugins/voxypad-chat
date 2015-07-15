@@ -42,7 +42,7 @@ You could download the app from voxypad.com web site.
 
 == Screenshots ==
 
-1. Creating notepad with rich contents, sharing with friends, customers during chat session.
+1. Chat/Call menu displayed in bottom, right corner. Creating notepad with rich contents and sharing with visitors/customers during chat session.
 2. Co-browsing web, making annotation directly on the screen to express your intention clearly during voice call.
 3. Co-viewing documents, making annotation, highlighting important sections, words... during call session.
 4. Translate words into different languages to your international partners, customers.
