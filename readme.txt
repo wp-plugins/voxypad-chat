@@ -59,7 +59,8 @@ You could install into multiple devices (iphone, ipad, android, PC)...All of the
 = How coud I send images/photos during the chat/call? =
 You could send individual image or photo by clicking on + sign during the chat. You could also combine multiple photos/images into the "Whiteboard" by clicking the Global icon and insert images/photo into the "Whiteboard". Click Done to send.
 
- 
+ = Could I call back customer? =
+This is inbound call where customer remain unanimous. You could not call back to customers.
 
 == Screenshots ==
 
