@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: VoxyPAD
-Tags: Click2call, clicktocall, collaboration, formilla, help desk, free live chat,live support, chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat,customer support,customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk, call widget, whiteboard, notepad, data sharing, annotation, customer service, telesale, co-browse web, webRTC
+Tags: Click2call, clicktocall, collaboration, formilla, help desk, free live chat,live support, chat, live chat, livechat, live chat software, live chat widget, widget, mobile live chat,customer support,customer feedback, olark, snapengage, zopim, casengo, zendesk, clickdesk, call widget, whiteboard, notepad, data sharing, annotation, customer service, telesale, co-browse web, webRTC, voxypad, call
 Requires at least: 2.7
 Tested up to: 4.2
 Stable tag: trunk
@@ -74,4 +74,4 @@ This is inbound call where customer remain unanimous. You could not call back to
 == Changelog ==
 
 = 1.0 =
-* Initial release>>>>>>> .r1195096
+* Initial release.
