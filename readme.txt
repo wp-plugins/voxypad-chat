@@ -59,8 +59,8 @@ You could install into multiple devices (iphone, ipad, android, PC)...All of the
 = How coud I send images/photos during the chat/call? =
 You could send individual image or photo by clicking on + sign during the chat. You could also combine multiple photos/images into the "Whiteboard" by clicking the Global icon and insert images/photo into the "Whiteboard". Click Done to send.
 
- = Could I call back customer? =
-This is inbound call where customer remain unanimous. You could not call back to customers.
+ = What happened if my Voxypad app is turned off? =
+Even though the Voxypad app is turning off, once customers/visitors start a chat or call, you will receive a push notification where you could still chat/talk with customers/visitors by clicking on that message. You don't miss any important message from your visitors. This is working like someone calling to your mobile phone which you could carry anywhere you go. 
 
 == Screenshots ==
 
